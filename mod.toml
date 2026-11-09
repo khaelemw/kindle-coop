@@ -1,0 +1,10 @@
+[mod]
+id = "coop"
+name = "Co-op"
+version = "0.1.0-beta"
+author = "Kindle"
+description = "Play the whole game together: friends join the host's world and play it as the host does. Beta."
+api = 1
+
+[permissions]
+modules = ["events", "net", "flags", "world", "player", "game", "ui", "input", "params", "text", "hks"]
